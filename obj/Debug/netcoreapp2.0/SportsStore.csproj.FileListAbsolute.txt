@@ -1,0 +1,10 @@
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+C:\Users\Ian Bilek\Desktop\3312 ABA\SportsStore\09 - SportsStore - Navigation\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
